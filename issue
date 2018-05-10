@@ -2,7 +2,16 @@
 @ mark something of 2dx development
 -----------------------------------
 
-1、3.0 cocos的版本改动
+#1、3.0 cocos的版本改动:
   http://www.cocos.com/cocos2dx
 
-2、
+#2、设计模式:
+  https://blog.csdn.net/lawrence881210/article/details/36024733
+  
+#3、确定内存泄露及其解决办法:
+
+#4、协程的作用及实际开发中的应用：
+
+#5、Luaj和luaoc
+
+#6、c++与lua交互的原理
