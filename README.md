@@ -1,2 +1,2 @@
 # cocos2dx
-mark something of 2dx development
+# mark something of 2dx development
